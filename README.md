@@ -10,7 +10,7 @@ Total Profit: 627K
 
 This indicates that the company is operating profitably with nearly 48-50% profit margin.
 
-4 Key Business Insights
+**Key Business Insights**
 1. The business is highly profitable
 
 Total Sales are 1.3M while Total Cost is only 640.6K, resulting in approximately 627K profit. This shows strong profitability and good cost management.
